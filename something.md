@@ -1,5 +1,5 @@
 ---
-title:coś tam
+title: coś tam
 ---
 # Tekst
 
